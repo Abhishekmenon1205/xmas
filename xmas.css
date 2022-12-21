@@ -1,0 +1,46 @@
+body {
+    background-image: url('./images/snow-winter.gif');
+    background-size:100%;
+    padding: 0%;
+    border-radius: 20px red;
+}
+
+#a1{
+    margin-top: 5%;
+    margin-left: 25%;
+    height: 500px;
+    width: 700px;
+    background-color: aliceblue;
+    background-image: url(./images/nice-christmas-background-white-background-with-copy-space_24972-1722.webp);
+    background-size: cover;
+   
+}
+#a2{
+    height: 500px;
+    width: 700px;
+    
+}
+img{
+    height: 20%;
+    width: 20%;
+    margin-left: 55%;
+    margin-top: 5%;
+}
+#a3{
+    margin-top: 10%;
+    margin-left: 50%;
+    font-size: larger;
+    font-family:cursive;
+    font-style: italic;
+
+
+}
+#a4{
+    margin-top: 5%;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+    color: red;
+    
+}
