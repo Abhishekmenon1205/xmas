@@ -1,6 +1,7 @@
 body {
     background-image: url('./images/snow-winter.gif');
-    background-size:100%;
+    background-size:cover;
+    background-repeat: no-repeat;
     padding: 0%;
     border-radius: 20px red;
 }
